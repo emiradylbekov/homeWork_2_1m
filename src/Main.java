@@ -3,7 +3,6 @@ import java.util.Random;
 public class Main {
     public static void main(String[] args) {
         System.out.println(permission(generateRandomAge(), 7));
-        System.out.println(permission(29, 5));
         System.out.println(permission(generateRandomAge(), 0));
         System.out.println(permission(10, 20));
         System.out.println(permission(generateRandomAge(), 30));
